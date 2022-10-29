@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 49.5%;
+    object-fit: cover;
+}
+
+.last-img {
+    width: 99%;
+    height: 50%;
+    object-fit: cover;
+}
